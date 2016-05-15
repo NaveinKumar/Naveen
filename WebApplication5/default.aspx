@@ -10,6 +10,8 @@
     <form id="form1" runat="server">
     <div>
     
+        <asp:Calendar ID="Calendar1" runat="server" SelectedDate="05/15/2016 07:40:46"></asp:Calendar>
+    
     </div>
     </form>
 </body>
